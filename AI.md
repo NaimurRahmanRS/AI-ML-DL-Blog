@@ -42,11 +42,38 @@ DL is a subset of ML that uses artificial neural networks with multiple layers (
 
 ### Summary Table
 
-| **Aspect**          | **AI**                               | **ML**                               | **DL**                               |
-|----------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-| **Definition**       | Simulation of human intelligence    | Machines learning from data          | Learning through deep neural networks |
-| **Complexity**       | Broad                               | More specific                        | Highly specialized                    |
-| **Example**          | Virtual assistants                 | Spam filters                         | Facial recognition                    |
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: center;">Aspect</th>
+        <th style="text-align: center;">AI</th>
+        <th style="text-align: center;">ML</th>
+        <th style="text-align: center;">DL</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center;">Definition</td>
+        <td style="text-align: center;">Simulation of human intelligence</td>
+        <td style="text-align: center;">Machines learning from data</td>
+        <td style="text-align: center;">Learning through deep neural networks</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Complexity</td>
+        <td style="text-align: center;">Broad</td>
+        <td style="text-align: center;">More specific</td>
+        <td style="text-align: center;">Highly specialized</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Example</td>
+        <td style="text-align: center;">Virtual assistants</td>
+        <td style="text-align: center;">Spam filters</td>
+        <td style="text-align: center;">Facial recognition</td>
+      </tr>
+    </tbody>
+  </table>
+</p>
 
 By understanding these distinctions, you'll gain clarity on how these fields intersect and differ, preparing you for the workshop activities ahead.
 
@@ -113,12 +140,44 @@ DL takes on the most challenging tasks by analyzing raw, unstructured data such 
 
 ## Table: Autonomous Driving
 
-| **Aspect**               | **AI**                                           | **ML**                                          | **DL**                                           |
-|--------------------------|--------------------------------------------------|------------------------------------------------|-------------------------------------------------|
-| **Scope**                | High-level decision-making                       | Learning from structured data                  | Analyzing raw and unstructured data             |
-| **Role in Driving**      | Route planning, traffic management               | Predicting vehicle or pedestrian behavior      | Object detection, lane recognition              |
-| **Example**              | Deciding to slow down at an intersection         | Predicting a car's trajectory in adjacent lanes| Identifying other cars from camera feeds        |
-| **Strengths**            | Broad integration of tasks                      | Adapts to patterns in structured data          | High accuracy with image and sensor processing  |
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: center;">Aspect</th>
+        <th style="text-align: center;">AI</th>
+        <th style="text-align: center;">ML</th>
+        <th style="text-align: center;">DL</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center;">Scope</td>
+        <td style="text-align: center;">High-level decision-making</td>
+        <td style="text-align: center;">Learning from structured data</td>
+        <td style="text-align: center;">Analyzing raw and unstructured data</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Role in Driving</td>
+        <td style="text-align: center;">Route planning, traffic management</td>
+        <td style="text-align: center;">Predicting vehicle or pedestrian behavior</td>
+        <td style="text-align: center;">Object detection, lane recognition</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Example</td>
+        <td style="text-align: center;">Deciding to slow down at an intersection</td>
+        <td style="text-align: center;">Predicting a car's trajectory in adjacent lanes</td>
+        <td style="text-align: center;">Identifying other cars from camera feeds</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Strengths</td>
+        <td style="text-align: center;">Broad integration of tasks</td>
+        <td style="text-align: center;">Adapts to patterns in structured data</td>
+        <td style="text-align: center;">High accuracy with image and sensor processing</td>
+      </tr>
+    </tbody>
+  </table>
+</p>
 
 ---
 
